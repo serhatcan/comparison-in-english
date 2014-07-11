@@ -1,0 +1,166 @@
+﻿<all>
+<ques>
+<q1>İstanbul is __________ than Ankara.</q1>
+<op1>more crowded</op1>
+<op2>crowdeder </op2>
+<op3>crowdedder</op3>
+<op4>crowded</op4>
+<feedback>The answer should be "more crowded" because crowded is 2 or more syllable adjective.</feedback>
+<IMAGE IMG="images/test1/test_1_1.PNG" />
+</ques>
+
+<ques>
+<q1>Zehra is __________ than Zeynep.</q1>
+<op1>more beautiful </op1>
+<op2>more</op2>
+<op3>beautiful </op3>
+<op4>good</op4>
+<feedback>The answer should be "more beautiful" because beautiful is 2 or more syllable adjective.</feedback>
+<IMAGE IMG="images/test1/test_1_2.PNG" />
+</ques>
+
+<ques>
+<q1>My father can drive __________ than your father.</q1>
+<op1>better </op1>
+<op2>good</op2>
+<op3>more good</op3>
+<op4>gooder</op4>
+<feedback>The answer should be "better" because good is irregular adjective.</feedback>
+<IMAGE IMG="images/test1/test_1_3.PNG" />
+</ques>
+
+<ques>
+<q1>Which one is true?
+</q1>
+<op1>better</op1>
+<op2>boring</op2>
+<op3>exciting</op3>
+<op4>delicious</op4>
+<feedback>The answer should be "better" because they are irregular adjectives.</feedback>
+<IMAGE IMG="images/test1/test_1_4.PNG" />
+</ques>
+
+
+<ques>
+<q1>Maths is __________ than Turkish.
+Turkish is __________ than Maths.
+</q1>
+<op1>more difficult / easier</op1>
+<op2>difficult / easy</op2>
+<op3>difficulter / easier</op3>
+<op4>more difficult / more easy</op4>
+<feedback>The first answer should be "more difficult" because difficult is 2 or more syllable adjective and the second answer should be "eaiser" because easy is ending with -y.</feedback>
+<IMAGE IMG="images/test1/test_1_5.PNG" />
+</ques>
+
+<ques>
+<q1>Lions are __________ than dogs.</q1>
+<op1>more dangerous</op1>
+<op2>danger</op2>
+<op3>dangerouser</op3>
+<op4>dangerous</op4>
+<feedback>The answer should be "more dangerous" because dangerous is 2 or more syllable adjective.</feedback>
+<IMAGE IMG="images/test1/test_1_6.PNG" />
+</ques>
+
+
+<ques>
+<q1>An evening dress is __________ than a casual dress.</q1>
+<op1>more expensive </op1>
+<op2>expensive than </op2>
+<op3>expensiver </op3>
+<op4>expensive</op4>
+<feedback>The answer should be "more expensive" because expensive is 2 or more syllable adjective.</feedback>
+<IMAGE IMG="images/test1/test_1_7.PNG" />
+</ques>
+
+
+<ques>
+<q1>A bike is __________ a car.</q1>
+<op1>cheaper than  </op1>
+<op2>cheap </op2>
+<op3>more cheaper than</op3>
+<op4>cheaper </op4>
+<feedback>The answer should be "cheaper than" because cheap is one syllable adjective.</feedback>
+<IMAGE IMG="images/test1/test_1_8.PNG" />
+</ques>
+
+
+<ques>
+<q1>Which animal is the heaviest land animal?</q1>
+<op1>An elephant </op1>
+<op2>A cheetah </op2>
+<op3>A whale</op3>
+<op4>A zebra </op4>
+<feedback>The answer should be "An elephant" because elephant havier than the others.</feedback>
+<IMAGE IMG="images/test1/test_1_9.PNG" />
+</ques>
+
+
+<ques>
+<q1>Which one is true?</q1>
+<op1>older  </op1>
+<op2>old </op2>
+<op3>bad </op3>
+<op4>good </op4>
+<feedback>The answer should be "older" because old is one syllable adjective.</feedback>
+<IMAGE IMG="images/test1/test_1_10.PNG" />
+</ques>
+
+
+<ques>
+<q1>Which is correct one?</q1>
+<op1>An elephant is heavier than a giraffe.  </op1>
+<op2>A giraffe is heavier than an elephant. </op2>
+<op3>An elephant is lighter than a giraffe. </op3>
+<op4>An elephant isn't heavier than a giraffe.</op4>
+<feedback>The answer should be "An elephant is heavier than a giraffe. " because elephant is the heaviest animals in the question.</feedback>
+<IMAGE IMG="images/test1/test_1_11.PNG" />
+</ques>
+
+
+
+<ques>
+<q1>Which one is incorrect?</q1>
+<op1>Tom is the best of all.</op1>
+<op2>Brad is the best of all.</op2>
+<op3>Kate is better than Tom. </op3>
+<op4>Tom is worse than Brad. </op4>
+<feedback>The answer should be "Tom is the best of all. " because Tom's score is not best in the question.</feedback>
+<IMAGE IMG="images/test1/test_1_12.PNG" />
+</ques>
+
+
+
+<ques>
+<q1>_________ is the largest city in Turkey.</q1>
+<op1>Konya</op1>
+<op2>Yozgat</op2>
+<op3>Çorum</op3>
+<op4>Eskişehir</op4>
+<feedback>The answer should be "Konya " because konya is the largest city in the question.</feedback>
+<IMAGE IMG="images/test1/test_1_13.PNG" />
+</ques>
+
+
+<ques>
+<q1>The blue bag is ________ . The red bag is ________ the blue bag. The green bag is ________ of all.</q1>
+<op1>heavy / heavier than / the heaviest</op1>
+<op2>heavier / theavier than / heaviest</op2>
+<op3>heavier / the heaviest / heavier than</op3>
+<op4>heavier than / heavy / more heavier</op4>
+<feedback>The answer should be "heavy / heavier than / the heaviest " because green one is 12 kg and red one is a 10 kg and then blue one is a 8 kg. </feedback>
+<IMAGE IMG="images/test1/test_1_14.PNG" />
+</ques>
+
+<ques>
+<q1>Erzurum is _________ than İzmir in winter.</q1>
+<op1>colder  </op1>
+<op2>hotter </op2>
+<op3>cheaper </op3>
+<op4>drier</op4>
+<feedback>The answer should be " colder " because erzurum is colder city than izmir in the question.</feedback>
+<IMAGE IMG="images/test1/test_1_15.PNG" />
+</ques>
+
+</all>

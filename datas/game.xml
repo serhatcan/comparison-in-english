@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GALLERY COLUMNS="3" XPOSITION="94" YPOSITION="135" WIDTH="150" HEIGHT="225">
+	<ENTRY>
+		<IMAGE IMG1="images/img1/img1_1.png" IMG2="images/img2/img2_1.png" IMG3="images/img3/img3_1.png" />
+		<tb1>beautiful</tb1>
+		<tb2>more beautiful</tb2>
+		<tb3>the most beautiful</tb3>
+	</ENTRY>
+	
+	<ENTRY>
+		<IMAGE IMG1="images/img1/img1_2.jpg" IMG2="images/img2/img2_2.jpg" IMG3="images/img3/img3_2.jpg" />
+		<tb1>tall</tb1>
+		<tb2>taller</tb2>
+		<tb3>the tallest</tb3>
+	</ENTRY>
+	
+	<ENTRY>
+		<IMAGE IMG1="images/img1/img1_3.jpg" IMG2="images/img2/img2_3.jpg" IMG3="images/img3/img3_3.jpg" />
+		<tb1>crowded</tb1>
+		<tb2>more crowded</tb2>
+		<tb3>the most crowded</tb3>
+	</ENTRY>
+
+		<ENTRY>
+		<IMAGE IMG1="images/img1/img1_4.jpg" IMG2="images/img2/img2_4.jpg" IMG3="images/img3/img3_4.jpg" />
+		<tb1>happy</tb1>
+		<tb2>happier</tb2>
+		<tb3>the happiest</tb3>
+	</ENTRY>
+	
+	<ENTRY>
+		<IMAGE IMG1="images/img1/img1_5.jpg" IMG2="images/img2/img2_5.jpg" IMG3="images/img3/img3_5.jpg" />
+		<tb1>serious</tb1>
+		<tb2>more serious</tb2>
+		<tb3>the most serious</tb3>
+	</ENTRY>
+	
+	<ENTRY>
+		<IMAGE IMG1="images/img1/img1_6.jpg" IMG2="images/img2/img2_6.jpg" IMG3="images/img3/img3_6.jpg" />
+		<tb1>old</tb1>
+		<tb2>older</tb2>
+		<tb3>oldest</tb3>
+	</ENTRY>	
+
+	<ENTRY>
+		<IMAGE IMG1="images/img1/img1_7.jpg" IMG2="images/img2/img2_7.jpg" IMG3="images/img3/img3_7.jpg" />
+		<tb1>small</tb1>
+		<tb2>smaller</tb2>
+		<tb3>smallest</tb3>
+	</ENTRY>	
+
+	<ENTRY>
+		<IMAGE IMG1="images/img1/img1_8.jpg" IMG2="images/img2/img2_8.jpg" IMG3="images/img3/img3_8.jpg" />
+		<tb1>ugly</tb1>
+		<tb2>uglier</tb2>
+		<tb3>the ugliest</tb3>
+	</ENTRY>	
+
+	<ENTRY>
+		<IMAGE IMG1="images/img1/img1_9.jpg" IMG2="images/img2/img2_9.jpg" IMG3="images/img3/img3_9.jpg" />
+		<tb1>young</tb1>
+		<tb2>younger</tb2>
+		<tb3>the youngest</tb3>
+	</ENTRY>
+
+	<ENTRY>
+		<IMAGE IMG1="images/img1/img1_10.jpg" IMG2="images/img2/img2_10.jpg" IMG3="images/img3/img3_10.jpg" />
+		<tb1>strong</tb1>
+		<tb2>stronger</tb2>
+		<tb3>the stronger</tb3>
+	</ENTRY>
+
+	<ENTRY>
+		<IMAGE IMG1="images/img1/img1_11.jpg" IMG2="images/img2/img2_11.jpg" IMG3="images/img3/img3_11.jpg" />
+		<tb1>cheap</tb1>
+		<tb2>cheaper</tb2>
+		<tb3>the cheapest</tb3>
+	</ENTRY>	
+
+	
+	
+</GALLERY>
